@@ -13,7 +13,7 @@
   * [License Info](#license-info)
 
   ## Screenshot of Application
-  ![enter image description here](https://www.dropbox.com/s/hkhzu4jwu4t1p7k/Tech-Talk-Screenshot.png?raw=1)
+  ![enter image description here](https://www.dropbox.com/s/4mueplby914bjg4/Tech-Talk-Final.png?raw=1)
 
   ## Link to Deployed Application
 
