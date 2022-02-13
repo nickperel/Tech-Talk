@@ -12,6 +12,9 @@
   * [Contributing](#contributing)
   * [License Info](#license-info)
 
+  ## Screenshot of Application
+  ![enter image description here](https://www.dropbox.com/s/hkhzu4jwu4t1p7k/Tech-Talk-Screenshot.png?raw=1)
+
   ### Installation
   
   * None, just visit the live link to the app that is deployed to Heroku!
