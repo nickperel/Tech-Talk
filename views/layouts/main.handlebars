@@ -14,12 +14,13 @@
     <header>
       <h1>
         <a href="/">Tech Talk</a>
+        <br>
       </h1>
       <nav>
         <a href="/">Home</a>
-        {{#if loggedIn}}
         <a href="/dashboard">Dashboard</a>
-        <button id="logout" class="btn-no-style">logout</button>
+        {{#if loggedIn}}
+        <button id="logout" class="btn-no-style logout-btn">Logout</button>
         {{else}}
         <a href="/login">Login</a>
         {{/if}}
